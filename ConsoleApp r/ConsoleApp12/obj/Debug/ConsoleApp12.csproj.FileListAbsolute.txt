@@ -1,0 +1,14 @@
+G:\vs projects\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+G:\vs projects\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+G:\vs projects\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+G:\vs projects\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.AssemblyReference.cache
+G:\vs projects\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+G:\vs projects\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+G:\vs projects\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
+C:\Users\User\Desktop\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\User\Desktop\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\User\Desktop\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\User\Desktop\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\User\Desktop\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
